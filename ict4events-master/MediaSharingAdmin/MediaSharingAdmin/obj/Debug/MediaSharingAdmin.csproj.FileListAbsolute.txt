@@ -1,0 +1,7 @@
+c:\users\rvanduijnhoven\documents\visual studio 2013\Projects\MediaSharingAdmin\MediaSharingAdmin\bin\Debug\MediaSharingAdmin.exe.config
+C:\Users\rvanduijnhoven\Documents\GitHub\ict4events\MediaSharingAdmin\MediaSharingAdmin\bin\Debug\MediaSharingAdmin.exe.config
+C:\Users\Bart van Keersop\Documents\GitHub\ict4events\ict4events-master\MediaSharingAdmin\MediaSharingAdmin\bin\Debug\MediaSharingAdmin.exe.config
+C:\Users\Bart van Keersop\Documents\GitHub\ict4events\ict4events-master\MediaSharingAdmin\MediaSharingAdmin\obj\Debug\MediaSharingAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Bart van Keersop\Documents\GitHub\ict4events\ict4events-master\MediaSharingAdmin\MediaSharingAdmin\obj\Debug\MediaSharingAdmin.Administration.resources
+C:\Users\Bart van Keersop\Documents\GitHub\ict4events\ict4events-master\MediaSharingAdmin\MediaSharingAdmin\obj\Debug\MediaSharingAdmin.Properties.Resources.resources
+C:\Users\Bart van Keersop\Documents\GitHub\ict4events\ict4events-master\MediaSharingAdmin\MediaSharingAdmin\obj\Debug\MediaSharingAdmin.csproj.GenerateResource.Cache
